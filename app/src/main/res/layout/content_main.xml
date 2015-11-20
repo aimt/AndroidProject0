@@ -34,7 +34,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Spotify Streamer"
-            android:id="@+id/button"
+            android:id="@+id/buttonSpotifyStreamer"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
 
@@ -43,7 +43,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Scores App"
-            android:id="@+id/button2"
+            android:id="@+id/buttonScoresApp"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
 
@@ -51,7 +51,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Library  App"
-            android:id="@+id/button3"
+            android:id="@+id/buttonLibraryApp"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
 
@@ -59,7 +59,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Build it bigger"
-            android:id="@+id/button4"
+            android:id="@+id/buttonBuildItBigger"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
 
@@ -67,7 +67,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="XYZ reader"
-            android:id="@+id/button5"
+            android:id="@+id/buttonXYZReader"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
 
@@ -75,7 +75,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Capstone :  My Own App"
-            android:id="@+id/button6"
+            android:id="@+id/buttonCapstone"
             android:layout_gravity="center_horizontal"
             android:layout_margin="5dp" />
     </LinearLayout>
